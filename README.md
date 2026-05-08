@@ -1,7 +1,7 @@
 # E-Commerce Sales Analytics Dashboard
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/Dashboard Screenshot.png)
+![Dashboard Preview](screenshots/dashboard.png)
 
 ## Project Overview
 
